@@ -146,7 +146,7 @@ We have put care into creating a set of powerful built-in metrics. See the list 
  
 
 ## 📪 Contact
-Zakład Inżynierii Lingwistycznej i Analizy Tekstu, Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy ziliat@nask.pl\
+Zakład Inżynierii Lingwistycznej i Analizy Tekstu, Naukowa i Akademicka Sieć Komputerowa – Państwowy Instytut Badawczy nlp@nask.pl\
 **Anna Kołos** anna.kolos@nask.pl\
 **Agnieszka Karlińska** agnieszka.karlinska@nask.pl
 
